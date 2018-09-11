@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_The_Quran_Reciters___Listen_and_Download_The_Holy_Quran : NSObject
+@end
+@implementation PodsDummy_Pods_The_Quran_Reciters___Listen_and_Download_The_Holy_Quran
+@end
