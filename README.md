@@ -6,8 +6,7 @@ download any ‘Surah’ to listen in offline mode and add favorite reciters to 
 
 
 # Finished App
-<a href="https://imgflip.com/gif/2hqihn"><img src="https://i.imgflip.com/2hqihn.gif" title="made at imgflip.com"/></a>
-
+<a href="https://imgflip.com/gif/2hqir5"><img src="https://i.imgflip.com/2hqir5.gif" title="made at imgflip.com"/></a>
 
 
 
